@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\ASUS\OneDrive\Documentos\CursoJaava2024\SoloLearn\.metadata\.plugins\org.eclipse.jdt.core
+3572637176.index
+1540592365.index
+1865797976.index
+3803894794.index
+357871136.index
+3251249088.index
+3701531455.index
+1660767967.index
+4231232886.index
+2179537226.index
